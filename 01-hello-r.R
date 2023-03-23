@@ -8,4 +8,5 @@ my_var[c(3,2,1,4)] #we will get the cat,boy,apple and desktop
 
 my_var[c('c', 'b', 'a', 'd')]
 
-
+#R function to get names of variable
+names(my_var)
